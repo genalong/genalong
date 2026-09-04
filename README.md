@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">From 🇺🇾<br><br>- 📚 Analista programador</p>
+<p data-importer="text" align="left"> 🇺🇾<br><br>- 📚 Analista programador</p>
 
 ###
 
